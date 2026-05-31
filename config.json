@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdarse",
+        "uuid": 16858314,
+        "checksum": "igk7ud"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
